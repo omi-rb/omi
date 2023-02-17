@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    omi (0.1.0)
+    omi (0.0.0)
       zeitwerk
 
 GEM

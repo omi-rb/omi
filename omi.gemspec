@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["Tony Burns"]
   spec.email = ["tony@tonyburns.net"]
 
-  spec.summary = ""
-  spec.description = ""
+  spec.summary = "Build awesome command line applications with Ruby"
+  spec.description = "Omi is a modular, batteries-included toolkit for building command line applications of any size."
   spec.homepage = "https://omi.tbhb.io"
   spec.license = "MIT"
 
