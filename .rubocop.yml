@@ -9,3 +9,10 @@ inherit_gem:
 
 AllCops:
   NewCops: enable
+  TargetRubyVersion: 3.0
+  Exclude:
+    - '**/bin/**/*'
+    - '**/node_modules/**/*'
+    - '**/pkg/**/*'
+    - '**/tmp/**/*'
+    - '**/vendor/**/*'
