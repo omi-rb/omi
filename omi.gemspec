@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Build awesome command line applications with Ruby"
   spec.description = "Omi is a modular, batteries-included toolkit for building command line applications of any size."
-  spec.homepage = "https://omi.tbhb.io"
+  spec.homepage = "https://omi-rb.sh"
   spec.license = "MIT"
 
   spec.required_ruby_version = ">= 3.0.5"
@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.metadata = {
     "bug_tracker_uri" => "https://github.com/tbhb/omi/issues",
     "changelog_uri" => "https://github.com/tbhb/omi/blob/v#{version}/CHANGELOG.md",
-    "documentation_uri" => "https://omi.tbhb.io/api/v#{version}",
+    "documentation_uri" => "https://api.omi-rb.sh/v#{version}",
     "homepage_uri" => spec.homepage,
     "mailing_list_uri" => "https://github.com/tbhb/omi/discussions",
     "source_code_uri" => "https://github.com/tbhb/omi/tree/v#{version}",
